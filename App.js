@@ -18,7 +18,7 @@ export default function App() {
         tabBarOptions={{
           activeTintColor: '#A58EFF',
           style: {
-            backgroundColor: 'purple',
+            backgroundColor: 'rgba(165, 142, 255, 1)',
           },
         }}
       >
